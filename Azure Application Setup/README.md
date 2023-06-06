@@ -1,3 +1,4 @@
+# Step By Step Azure Application Setup
 To sign up for Azure App using GitHub as your authentication provider, follow these step-by-step instructions:
 
 1. Go to the Azure portal: https://portal.azure.com/ and sign in with your Azure account credentials.
