@@ -23,8 +23,3 @@ This guide provides step-by-step instructions to register your app in the Azure 
 8. Choose "Delegated permissions" and navigate to "Files". Check all the permissions that are required for your case, such as `Files.ReadWrite.All` and `Files.ReadWrite`.
 9. Navigate "Files" and check all the permissions that are required for your case as for accessing purposes Files.ReadWrite.All and Files.ReadWrite are checked.
 10. Enable the Access token in the Authentication tab to ignite your application with the power of authentication. Click "Save" to apply the changes.
-
-
-
-8. 
-
