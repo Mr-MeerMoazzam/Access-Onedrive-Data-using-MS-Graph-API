@@ -8,7 +8,7 @@ This guide provides step-by-step instructions to register your app in the Azure 
 ## Steps
 
 1. Go to the Azure portal: [Azure Portal](https://portal.azure.com/) and sign in with your Azure account credentials.
-
+![Step 1](https://github.com/Mr-MeerMoazzam/Access-Onedrive-Data-using-MS-Graph-API/blob/main/assets/s1.png?raw=true)
 2. In the search bar, type "App registrations" and select "App registrations" from the suggestions.
 
 3. Click on the "New registration" button to create a new app registration.
