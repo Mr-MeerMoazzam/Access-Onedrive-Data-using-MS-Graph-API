@@ -7,7 +7,7 @@ This guide provides step-by-step instructions to register your app in the Azure 
 
 ## Steps
 
-1. Go to the Azure portal: [https://portal.azure.com/](https://portal.azure.com/) and sign in with your Azure account credentials.
+1. Go to the Azure portal: [Azure Portal](https://portal.azure.com/) and sign in with your Azure account credentials.
 
 2. In the search bar, type "App registrations" and select "App registrations" from the suggestions.
 
